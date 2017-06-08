@@ -1,0 +1,12 @@
+ RANDOM CLUSTERS 
+x : 55 y : 242 z : 194
+x : 188 y : 193 z : 187
+x : 136 y : 241 z : 42
+x : 142 y : 5 z : 90
+x : 199 y : 194 z : 243
+________________________________
+Cluster Centroid : x : 55 y : 242 z : 194
+Cluster Centroid : x : 217 y : 147 z : 134
+Cluster Centroid : x : 233 y : 159 z : 9
+Cluster Centroid : x : 141 y : 53 z : 79
+Cluster Centroid : x : 230 y : 202 z : 190
